@@ -1,3 +1,3 @@
-module github.com/fasthey/go-beanstalk
+module github.com/rehok/go-beanstalk
 
 go 1.20

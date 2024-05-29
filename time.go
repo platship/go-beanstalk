@@ -1,9 +1,3 @@
-/*
- * @Author: coller
- * @Date: 2023-01-29 13:00:23
- * @LastEditTime: 2023-01-29 13:00:32
- * @Desc:
- */
 package beanstalk
 
 import (
